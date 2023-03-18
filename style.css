@@ -225,6 +225,7 @@ hr {
 
 .sec2__directions {
   display: flex;
+  justify-content: space-between;
   margin-top: 80px;
 }
 
