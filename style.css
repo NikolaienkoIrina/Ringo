@@ -6,7 +6,7 @@ body {
 .wrapper {
   display: flex;
   justify-content: space-between;
-  width: 1200px;
+  width: 80%;
   margin: 0px auto;
   align-items: center;
 }
